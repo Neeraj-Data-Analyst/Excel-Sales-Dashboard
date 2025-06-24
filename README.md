@@ -55,7 +55,7 @@ Excel-Sales-Dashboard/
 ---
 
 ## 🧠 How to Use
-1. Download and open `Sales_Dashboard.xlsx`
+1. Download and open `Sales_Analysis_Project.xlsx`
 2. Use slicers to filter data by region, category, or Month
 3. Explore dynamic visuals and KPIs for insights
 
