@@ -63,5 +63,5 @@ Excel-Sales-Dashboard/
 
 ## 🔗 Contact
 For questions or collaboration:  
-📧 neeraj.example@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+📧cvsneeraj@gmail.com  
+🔗 (linkedin.com/in/neeraj-kumar-1376a7163)
