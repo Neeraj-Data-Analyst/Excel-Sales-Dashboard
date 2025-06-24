@@ -8,7 +8,7 @@ This project features an interactive Excel dashboard that analyzes regional and 
 ## 📂 Dataset Description
 The data includes revenue from the sales with the following fields:
 - OrderId
-- -Daste
+- -Date
 - Region
 - Category
 - Product
